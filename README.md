@@ -1,4 +1,17 @@
-# CS-1: Single-Connector Infotainment Interface (Chainsaw Standard)
+<div align="center">
+
+<img src="assets/cs1.ico" width="96" alt="CS-1">
+
+# CS-1
+
+**One connector between vehicle and head unit. No harnesses, no decoder boxes.**
+
+[![license](https://img.shields.io/badge/license-GPLv3-d6262a?style=flat-square)](LICENSE)
+![platform](https://img.shields.io/badge/platform-Python%203%20%2B%20gRPC-d6262a?style=flat-square)
+
+</div>
+
+---
 
 Welcome to the **CS-1 Reference Implementation Repo** — also known as the *Chainsaw Standard*.  
 This project defines and demonstrates a **single, universal connector** for vehicle infotainment head units (HUs), eliminating the cluster of bespoke harnesses, CAN decoder boxes, VIN cables, and proprietary USB adapters.  
